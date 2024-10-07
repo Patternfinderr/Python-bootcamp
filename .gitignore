@@ -1,0 +1,6 @@
+
+__pycache__/
+
+venv/
+
+# add any files that needs to be ignored below
